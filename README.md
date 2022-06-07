@@ -1,2 +1,2 @@
 # Python
-### Resolução das atividades da 2ª aula de programação básica com python
+### Alguns programas em python
